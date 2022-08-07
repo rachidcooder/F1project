@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bac_note">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="false"
+        android:theme="@style/Theme.BAC_Note">
+        <activity android:name=".ForMenu.forAboutApp" />
+        <activity android:name=".Letter_Field.S_human_Natina" />
+        <activity android:name=".Letter_Field.Letter_national" />
+        <activity android:name=".Letter_Field.National_Letter" />
+        <activity android:name=".notetype.Region_Not_lettre" />
+        <activity android:name=".notetype.Regional_Note" />
+        <activity android:name=".ScienseFields.FieldSVT" />
+        <activity android:name=".ScienseFields.FieldPC" />
+        <activity android:name=".ScienseFields.Field_Math" />
+        <activity android:name=".notetype.Note_National" />
+        <activity android:name=".notetype.Note_school" />
+        <activity android:name=".notetype.Note_BAC" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

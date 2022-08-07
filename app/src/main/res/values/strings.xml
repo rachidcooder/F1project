@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">BAC_Note</string>
+    <string name="bac_note">نقطة البكالوريا</string>
+    <string name="bacnational_note">نقطة الوطني</string>
+    <string name="nationalettre_note">نقطة الوطني أدب</string>
+    <string name="regionallettre_note">نقطة الجهوي أدب</string>
+    <string name="nation_note"> نقطة الوطني اللازمة للنجاح </string>
+    <string name="regional_note">نقطة الجهوي </string>
+    <string name="S1_note">نقطة الدورة الاولى </string>
+    <string name="S2_note">نقطة الدورة التانية </string>
+    <string name="hightschool_note">نقطة المدارس العليا</string>
+    <string name="nationalscience_note">نقطة الوطني علوم</string>
+    <string name="regionalscience_note"> نقطة الجهوي علوم</string>
+    <string name="math">S.Math(A/B)</string>
+    <string name="phyzique">S.Phyzique(PC)</string>
+    <string name="svt">SVT</string>
+    <string name="Math">Math</string>
+    <string name="pc">PC</string>
+    <string name="svt_inginieur">SVT/INGINIEUR</string>
+    <string name="anglais">اللغة الاجنبية 2</string>
+    <string name="philosophie">الفلسفة</string>
+    <string name="arabic">اللغة العربية </string>
+    <string name="francais">اللغة الفرنسية</string>
+    <string name="giographique">اجتماعيات</string>
+    <string name="islamiyat">التربية الاسلامية</string>
+    <string name="buttonclick">حساب النقطة </string>
+    <string name="NUll">00,00</string>
+    <string name="Letter">شعبة الأدب </string>
+    <string name="S_humman">شعبة العلوم الانسانية </string>
+    <string name="about_app">عن التطبيق </string>
+    <string name="txtabout">عبارة عن تطبيق خاص بتلاميد الاولى بكالوريا و التانية بكالوريا حيت يقوم بحساب معدل البكالوريا ومعدل الجهوي و معدل الوطني عن طريق ادخال نقط المواد او عن طريق ادخال  معدل الدورتين الاولى والتانية ومعدل الجهوي بالنسبة للتانية بكالوريا.
+    </string>
+    <string name="txtaboufinal">نسأل الله التوفيق والنجاح لنا و لجميع التلاميد والتلميدات في اجتياز امتحاناتهم. </string>
+    <string name="share">share</string>
+</resources>
